@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brenda Mejia</h1>
 <h3 align="center">A passionate Software Developer and Teacher</h3>
 
-- 🔭 I’m currently working on learning Blockchain Developement
-
-- 🌱 I’m currently learning **Solidity**
+- 🔭 I’m currently working on my website portfolio
 
 - 💬 Ask me about **Python, C/C++, Java, Git**
 
 - 📫 How to reach me **mejiab@protonmail.com**
-
-- ⚡ Fun fact **I am vegan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
