@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brenda Mejia</h1>
-<h3 align="center">A Software Engineer, Teacher, and Mentor</h3>
+<h3 align="center">A Software Engineer, Tutor, and Mentor</h3>
 
 - 🔭 I’m currently working on **my website portfolio**
 
