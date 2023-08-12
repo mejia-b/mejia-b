@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brenda Mejia</h1>
-<h3 align="center">A Software Engineer, Tutor, and Mentor</h3>
+<h3 align="center"> Software Developer with a passion for security </h3>
 
-- 🔭 I’m currently working on **my website portfolio**
+- 🔭 I’m currently working on getting Security+ certified and have gained the Google Cybersecurity Certification.
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning all things Cybersecurity
 
-- 💬 Ask me about **Python, Django, Git**
+- 💬 Ask me about **Cybersecurity, Python, Django, Git**
 
 - 📫 How to reach me **mejiab@protonmail.com**
 
