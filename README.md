@@ -1,5 +1,5 @@
-<h1 align="center">Brenda Mejia</h1>
-<h3 align="center"> Software Developer with a passion for security </h3>
+<h1 align="center">Brenda Mejia ✨</h1>
+<h3 align="center"> Software Developer</h3>
 
 - 🔭 I’m currently working on getting Security+ certified and have gained the Google Cybersecurity Certification.
 
