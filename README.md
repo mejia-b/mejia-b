@@ -3,7 +3,7 @@
 
 - 👩‍💻 Computer Science Graduate
 
-- 🔭 I’m currently working on getting Security+ certified and have gained the Google Cybersecurity Certification.
+- 🔭 I am Security+ certified and have gained the Google Cybersecurity Certification.
 
 - 🌱 I’m currently learning all things Cybersecurity
 
