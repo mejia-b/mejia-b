@@ -3,6 +3,8 @@
 
 - 👩‍💻 Computer Science Graduate
 
+- ☁️ Studying to take Azure Fundamentals Cloud Certificate. 
+
 - 🔭 I am Security+ certified and have gained the Google Cybersecurity Certification.
 
 - 🌱 I’m currently learning all things Cybersecurity
